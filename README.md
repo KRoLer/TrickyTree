@@ -15,7 +15,7 @@ Is a small educational project to cover basic computer science topics such a cus
 * On the last node extra leafs should be discarded.
 
 
-##Example
+## Example
 Tree's node has three child nodes (a1, a2, a3) and also has four leafs b1, b2, b3, b4 with corresponding weights: 1 -> b1, 2 -> b2, 3 -> b3, 4 -> b4.
 
 Constant W is equals 3
